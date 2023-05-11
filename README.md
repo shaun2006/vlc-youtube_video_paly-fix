@@ -9,6 +9,7 @@ i would recomened to open the file in perview and then goto the bottom of the fi
 # where to save the file on linux
 
 This file must be saved in /usr/lib/vlc/lua/playlist/youtube.luac 
+
 ** Before saving or overwritting this your main youtube.luac pls do take a backup of the main youtube.luac file where every you prefer in your Gnu/Linux system **
 
 Thanks for visiting. 
