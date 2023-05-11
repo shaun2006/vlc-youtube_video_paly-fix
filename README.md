@@ -14,4 +14,4 @@ This file must be saved in /usr/lib/vlc/lua/playlist/youtube.luac
 
 Thanks for visiting. 
 
-Pls do tell if any fix is required issues are open and answer and fix will be given soon as possiable. 
+Pls do tell if any fix is required your issue will be resoled soon when possiable
